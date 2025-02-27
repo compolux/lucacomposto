@@ -1,70 +1,70 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
-  <diagram name="Page-1" id="AAiiQWBEAkQxzteKU6x-">
-    <mxGraphModel dx="2824" dy="1800" grid="0" gridSize="3.937" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" background="#2a2a2a" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3.1496;fontColor=light-dark(#ffffff, #ededed);labelBorderColor=light-dark(#FFFFFF,#EDEDED);strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-51.18" y="-43.309999999999995" width="1972.43" height="614.18" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CSS UNITS&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;default 16px font size html&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;use rem for font size: 1rem --&amp;gt; default(16px)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;use % for paddings (parent -&amp;gt; child container)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;for GAP use rem&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;vh and vw (browser view)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;line height: 1.5rem if font size is 1 rem --&amp;gt; better to use em so:&lt;br&gt;set line height: 1.5em (150%)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=none;strokeWidth=1.9685;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="-11.809999999999999" y="82.68" width="397.63" height="314.96" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;px&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;icon sizes&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;margins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;padding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;width of containers&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="444.88" y="51.18" width="200.79" height="208.66" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;%&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;padding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;margins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;gap between elements&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="653.54" y="51.18" width="196.85" height="173.22" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;rem&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;font sizes&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;padding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;gap between elements&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="444.877" y="263.777" width="196.85" height="173.22" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;em&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;line height&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;button padding&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="669.294" y="263.774" width="196.85" height="173.22" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;FLEX&lt;/h1&gt;&lt;div&gt;.container{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;display:flex;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;flex-direction: column/row; (main axis direction)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;justify-content: flex-start / flex-end / center / space-between...&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;space-around / space-evenly; (align content on the main axis)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;align-items: flex-start / flex-end / center / baseline (align content on the cross axis)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;flex-wrap: wrap; (when this is active you need to use align-content)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;align-content:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;flex-start / flex-end / center / baseline (align content on cross axis)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;gap: 1rem (gap between content)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;.item-1{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;align-self: flex-start / flex-end / center / baseline; (overwrites align for a single item)&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;strokeColor=#FFFFFF;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="889.76" y="50.16" width="972.44" height="385.83" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#FFFFFF;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1397.64" y="97.4" width="393.7" height="271.65" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-18" value="class: container" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1389.76" y="61.97" width="102.36" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.847;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#ffffff, #ededed);strokeColor=#FFFFFF;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1397.64" y="388.74" as="sourcePoint" />
-            <mxPoint x="1747.6788400000003" y="388.9484800000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-23" value="main axis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1397.64" y="388.74" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1397.64" y="97.4" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1519.687" y="97.39700000000002" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1641.7339999999997" y="97.404" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=light-dark(#ffffff, #ededed);strokeColor=#FFFFFF;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1808.09" y="97.78999999999999" as="sourcePoint" />
-            <mxPoint x="1808.09" y="368.79" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-28" value="cross axis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;textDirection=vertical-rl;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1815.96" y="97.41" width="19.69" height="271.65" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-30" value="class: item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1425.2000000000003" y="112.4" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TYYw9LiW6u4KMub6DSwJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=light-dark(#ffffff, #ededed);" parent="1" source="TYYw9LiW6u4KMub6DSwJ-15" target="TYYw9LiW6u4KMub6DSwJ-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="AAiiQWBEAkQxzteKU6x-">
+        <mxGraphModel dx="3407" dy="1903" grid="0" gridSize="3.937" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" background="#2a2a2a" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3.1496;fontColor=light-dark(#FFFAF9,#EDEDED);labelBorderColor=light-dark(#FFFFFF,#EDEDED);strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="-51.18" y="-43.309999999999995" width="1972.43" height="614.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CSS UNITS&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;default 16px font size html&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;use rem for font size: 1rem --&amp;gt; default(16px)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;use % for paddings (parent -&amp;gt; child container)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;for GAP use rem&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;vh and vw (browser view)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;line height: 1.5rem if font size is 1 rem --&amp;gt; better to use em so:&lt;br&gt;set line height: 1.5em (150%)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=none;strokeWidth=1.9685;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="-11.809999999999999" y="82.68" width="397.63" height="314.96" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;px&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;icon sizes&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;margins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;padding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;width of containers&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="444.88" y="51.18" width="200.79" height="208.66" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;%&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;padding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;margins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;gap between elements&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="653.54" y="51.18" width="196.85" height="173.22" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;rem&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;font sizes&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;padding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;gap between elements&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="444.877" y="263.777" width="196.85" height="173.22" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;em&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;line height&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;button padding&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="669.294" y="263.774" width="196.85" height="173.22" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;FLEX&lt;/h1&gt;&lt;div&gt;.container{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;display:flex;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;flex-direction: column/row; (main axis direction)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;justify-content: flex-start / flex-end / center / space-between...&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;space-around / space-evenly; (align content on the main axis)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;align-items: flex-start / flex-end / center / baseline (align content on the cross axis)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;flex-wrap: wrap; (when this is active you need to use align-content)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;align-content:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;flex-start / flex-end / center / baseline (align content on cross axis)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;gap: 1rem (gap between content)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;.item-1{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;align-self: flex-start / flex-end / center / baseline; (overwrites align for a single item)&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;strokeColor=#FFFFFF;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="889.76" y="50.16" width="972.44" height="385.83" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#FFFFFF;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1397.64" y="97.4" width="393.7" height="271.65" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-18" value="class: container" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1389.76" y="61.97" width="102.36" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.847;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#FFFAF9,#EDEDED);strokeColor=#FFFFFF;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1397.64" y="388.74" as="sourcePoint"/>
+                        <mxPoint x="1747.6788400000003" y="388.9484800000002" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-23" value="main axis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1397.64" y="388.74" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1397.64" y="97.4" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1519.687" y="97.39700000000002" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1641.7339999999997" y="97.404" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);strokeColor=#FFFFFF;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1808.09" y="97.78999999999999" as="sourcePoint"/>
+                        <mxPoint x="1808.09" y="368.79" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-28" value="cross axis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;textDirection=vertical-rl;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1815.96" y="97.41" width="19.69" height="271.65" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-30" value="class: item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" vertex="1">
+                    <mxGeometry x="1425.2000000000003" y="112.4" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="TYYw9LiW6u4KMub6DSwJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=light-dark(#FFFAF9,#EDEDED);" parent="1" source="TYYw9LiW6u4KMub6DSwJ-15" target="TYYw9LiW6u4KMub6DSwJ-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
