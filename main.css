@@ -6,6 +6,7 @@
   --clr-dark:#2a2a2a;
   --clr-light:#eaeaea;
   --clr-contrast: #eeeeee;
+  --clr-footer: #aca5af;
 }
 
 *,
@@ -175,8 +176,7 @@ nav{
 
 /* Footer */
 footer{
-  margin-top: 10rem;
-  background-color: var(--clr-contrast);
+  background-color: var(--clr-light);
   font-size: 0.9rem;
   padding: 0.5% 5%;
   display: flex;
@@ -189,4 +189,8 @@ footer{
   display: flex;
   max-width: 100%;
   justify-content: center;
+}
+
+#footer_logo{
+  background-color: var(--clr-footer);
 }
