@@ -136,9 +136,34 @@ nav{
   max-width: 500px;
 }
 
+.img-box2{
+  flex: 1 1 calc(33.333% - 1rem);
+  min-width: 300px;
+  max-width: 1000px;
+}
+
 .img-box img {
   width: 100%;
   height: auto;
+  display: block;
+  filter: grayscale(100%);
+  transition: filter 1s ease;
+}
+
+.img-box2 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: grayscale(100%);
+  transition: filter 1s ease;
+}
+
+.img-box img:hover {
+  filter: grayscale(0%);
+}
+
+.img-box2 img:hover {
+  filter: grayscale(0%);
 }
 
 #viewer {
