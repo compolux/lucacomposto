@@ -152,14 +152,19 @@ h3{
   margin-bottom: 2rem;
 }
 
-.img-box{
+.img-box {
   flex: 1 1 calc(33.333% - 1rem);
   min-width: 300px;
   max-width: 500px;
-  justify-items: center;
+}
+
+.img-box img {
+  display: block;
+  margin: 0 auto; /* centra immagine */
 }
 
 .img-box figcaption {
+  text-align: left; /* allinea a sinistra */
   font-size: 0.9em;
   color: #8E79D9;
   margin-top: 8px;
