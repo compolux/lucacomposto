@@ -39,6 +39,13 @@ body{
   line-height: 1.5em;
 }
 
+.logo-lc {
+  display: block;
+  margin-top: 3%;
+  width: 80px;
+  height: 80px;
+}
+
 a {
   text-decoration: none;
   color: var(--clr-dark);
