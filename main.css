@@ -41,9 +41,8 @@ body{
 
 .logo-lc {
   display: block;
-  margin-top: 3%;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
 }
 
 a {
@@ -115,6 +114,13 @@ h3{
   padding: 0.5% 8%;
   gap: 0.4rem;
   justify-content: flex-start;
+}
+
+.point-label {
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #7c6cff;
+  letter-spacing: 0.3px;
 }
 
 /* ################################################################################# */
